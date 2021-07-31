@@ -1,1 +1,4 @@
-# I'm Ghafar, data analyst based in Philadelphia, PA. I love 
+# Hello, everyone! My name is Ghafar Shah. I'm a Sr.Data Analyst based in Philadelphia, PA.
+
+
+
