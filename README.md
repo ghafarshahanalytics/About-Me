@@ -6,13 +6,13 @@ Hi! My name is Ghafar Shah. I really enjoy learning, discovering and extracting 
 
 I am an experienced data analyst at Comcast with a strong passion in data visualization (Tableau), quantitative / qualitative analysis, and geospatial analysis (Python). And, currently a member of the Philadelphia Tableau User Group (PhillyTUG) leadership committee.
 
-# EDUCATION 
+# EDUCATION 🏫
 
 • Currently pursuing a Masters in Business Intelligence & Analytics at Saint Joseph's University
 
 • Drexel University, Bachelor of Science in Management Information Systems (MIS)
 
-# ACHIEVEMENTS:
+# ACHIEVEMENTS ⭐
 
 • 3x Tableau 'Viz of the Day"
 
@@ -24,15 +24,17 @@ I am an experienced data analyst at Comcast with a strong passion in data visual
 
 • Certified Tableau Desktop Specialist (2019)
 
-# DATA VIZ PORTFOLIO
+# DATA VIZ PORTFOLIO 📉
 
 • Tableau Public: https://public.tableau.com/app/profile/ghafar.shah2168
 
 • Blog: https://gshah300.medium.com/
 
-# CONTACT
+# CONTACT 📖
 
-Connnect with me on Twitter (@GhafarShah9) and LinkedIn.
+Twitter: https://bit.ly/3C5GV6C
+
+LinkedIn: https://www.linkedin.com/in/ghafarshah
 
 
 
