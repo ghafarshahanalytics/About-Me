@@ -14,8 +14,6 @@
 
 • Certified Tableau Desktop Specialist (2019)
 
-• Comcast: Tableau “Iron Viz” contestant (2019)
-
 
 
 
