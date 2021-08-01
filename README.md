@@ -28,7 +28,7 @@ I am an experienced data analyst at Comcast with a strong passion in data visual
 
 • Tableau Public: https://public.tableau.com/app/profile/ghafar.shah2168
 
-• Blog: https://gshah300.medium.com/
+• Analytics Blog: https://gshah300.medium.com/
 
 # CONNECT WITH ME 🤝
 
