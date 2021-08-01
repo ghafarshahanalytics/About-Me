@@ -4,7 +4,7 @@
 
 Hi! My name is Ghafar Shah. I really enjoy learning, discovering and extracting insights from data! I love coding in Python (Numpy / Pandas), using Tableau to create data visualizations, and blogging about my analytics projects and experiences.
 
-I am an experienced data analyst at Comcast with a strong passion in data visualization (Tableau), quantitative / qualitative analysis, and geospatial analysis (Python). And, currently a member of the Philadelphia Tableau User Group (PhillyTUG) leadership committee.
+I am an experienced data analyst at Comcast with a strong passion in data visualization (Tableau), quantitative / qualitative analysis, and geospatial analysis (Python). And, I'm currently a member of the Philadelphia Tableau User Group (PhillyTUG) leadership committee.
 
 # EDUCATION 🏫
 
