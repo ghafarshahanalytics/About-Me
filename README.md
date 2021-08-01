@@ -8,9 +8,9 @@ I am an experienced data analyst at Comcast with a strong passion in data visual
 
 # EDUCATION 🏫
 
-• Currently pursuing a Masters in Business Intelligence & Analytics at Saint Joseph's University
+• Currently pursuing a Masters in Business Intelligence & Analytics at Saint Joseph's University | 2021 - Present
 
-• Drexel University, Bachelor of Science in Management Information Systems (MIS)
+• Drexel University, Bachelor of Science in Management Information Systems | September 2018
 
 # ACHIEVEMENTS ⭐
 
