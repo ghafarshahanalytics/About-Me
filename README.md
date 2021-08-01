@@ -21,7 +21,7 @@ Experienced data analyst at Comcast with a strong passion in data visualization 
 
 • Certified Tableau Desktop Specialist (2019)
 
-# PORTFOLIO
+# DATA VIZ PORTFOLIO
 
 • Tableau Public: https://public.tableau.com/app/profile/ghafar.shah2168
 
