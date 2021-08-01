@@ -8,7 +8,7 @@ I am an experienced data analyst at Comcast with a strong passion in data visual
 
 # EDUCATION 🏫
 
-• Currently pursuing a Masters in Business Intelligence & Analytics at Saint Joseph's University | 2021 - Present
+• Pursuing a Masters in Business Intelligence & Analytics at Saint Joseph's University | 2021 - Present
 
 • Drexel University, Bachelor of Science in Management Information Systems | September 2018
 
@@ -30,11 +30,11 @@ I am an experienced data analyst at Comcast with a strong passion in data visual
 
 • Blog: https://gshah300.medium.com/
 
-# CONTACT 📖
+# CONNECT WITH ME 🤝
 
-Twitter: https://bit.ly/3C5GV6C
+• Twitter: https://bit.ly/3C5GV6C
 
-LinkedIn: https://www.linkedin.com/in/ghafarshah
+• LinkedIn: https://www.linkedin.com/in/ghafarshah
 
 
 
