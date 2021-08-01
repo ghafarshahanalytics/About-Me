@@ -1,4 +1,6 @@
-# Hi! :wave: My name is Ghafar!
+# Hello, I'm Ghafar Shah! :wave:
+
+### ABOUT ME
 
 I really enjoy learning, discovering and extracting insights from data! I love coding in Python (Numpy / Pandas), using Tableau to create data visualizations, and blogging about my analytics projects and experiences.
 
@@ -8,7 +10,7 @@ Experienced data analyst at Comcast with a strong passion in data visualization 
 
 • Currently pursuing a Masters in Business Intelligence & Analytics at Saint Joseph's University
 
-• Drexel University, Bachelor of Science | Management Information Systems
+• Drexel University, Bachelor of Science in Management Information Systems (MIS)
 
 # ACHIEVEMENTS:
 
