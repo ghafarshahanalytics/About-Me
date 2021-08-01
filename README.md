@@ -14,7 +14,7 @@ I am an experienced data analyst at Comcast with a strong passion in data visual
 
 # ACHIEVEMENTS ⭐
 
-• 3x Tableau 'Viz of the Day"
+• 3x Tableau 'Viz of the Day' (VOTD)
 
 • "Biggest Growth" Tableau Conference Vizzie Award (2020)
 
