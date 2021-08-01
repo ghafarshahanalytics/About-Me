@@ -8,8 +8,11 @@
 • "Biggest Growth" Tableau Conference Vizzie Award (2020)
 
 • Tableau Public Featured Author (2020)
+
 • Certified Tableau Desktop Associate (2020)
+
 • Certified Tableau Desktop Specialist (2019)
+
 • Comcast: Tableau “Iron Viz” contestant (2019)
 
 
