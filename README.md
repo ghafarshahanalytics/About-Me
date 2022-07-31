@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-Welcome! My name is Ghafar Shah. I am an experienced data analyst at Comcast with a strong passion in data science & visualization. I love learning, discovering and extracting insights from data! I enjoy coding in Python, using Tableau to create data visualizations and blogging about my analytics projects and experiences.
+Welcome! My name is Ghafar Shah. I am an experienced data analyst at Comcast with a strong passion in data science & visualization. I love learning, discovering and extracting insights from data! I enjoy coding in Python, exploring NLP libaries, using Tableau to create data visualizations and blogging about my analytics projects and experiences.
 
 # EDUCATION 🏫
 
