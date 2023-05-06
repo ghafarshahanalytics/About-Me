@@ -27,7 +27,7 @@ Welcome! My name is Ghafar Shah. I am an experienced data analyst at Comcast wit
 
 • Certified Tableau Desktop Specialist (2019)
 
-# DATA VIZ PORTFOLIO 📉
+# DATA VIZ PORTFOLIO 📊
 
 • Tableau Public: https://public.tableau.com/app/profile/ghafar.shah2168
 
