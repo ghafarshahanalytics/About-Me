@@ -1,7 +1,7 @@
  # Welcome to my GitHub portfolio! :wave:
 ![data viz background](https://user-images.githubusercontent.com/69779897/236647219-a3b1d619-5f91-481d-b1d7-83890adf27ba.jpeg)
 
-### ABOUT ME
+# ABOUT ME
 
 Welcome! My name is Ghafar Shah. I am an experienced data analyst at Comcast with a strong passion in data science & visualization. I love learning, discovering and extracting insights from data! I enjoy coding in Python, exploring NLP libraries, using Tableau to create data visualizations and blogging about my analytics projects and experiences.
 
