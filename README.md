@@ -1,17 +1,17 @@
- # Welcome to my GitHub portfolio! :wave:
+ # Welcome to my GitHub Portfolio! :wave:
 ![data viz background](https://user-images.githubusercontent.com/69779897/236647219-a3b1d619-5f91-481d-b1d7-83890adf27ba.jpeg)
 
-# ABOUT ME 👨‍💻
+# About Me 👨‍💻
 
 Welcome! My name is Ghafar Shah. I am an experienced data analyst at Comcast with a strong passion in data science & visualization. I love learning, discovering and extracting insights from data! I enjoy coding in Python, exploring NLP libraries, using Tableau to create data visualizations and blogging about my analytics projects and experiences.
 
-# EDUCATION 🏫
+# Education 🏫
 
 • Masters in Business Intelligence & Analytics at Saint Joseph's University | 2021 - Present
 
 • Drexel University, Bachelor of Science in Management Information Systems | Graduated September 2018
 
-# ACHIEVEMENTS ⭐
+# Achievements ⭐
 
 • Speaker, 2022 Tableau Conference | Bring the WOW factor with Tableau Public Portfolios
 
@@ -27,13 +27,13 @@ Welcome! My name is Ghafar Shah. I am an experienced data analyst at Comcast wit
 
 • Certified Tableau Desktop Specialist | 2019
 
-# DATA VIZ PORTFOLIO 📊
+# Data Viz Portfolio 📊
 
 • Tableau Public: https://public.tableau.com/app/profile/ghafar.shah2168
 
 • Analytics Blog: https://gshah300.medium.com/
 
-# CONNECT WITH ME 🤝
+# Let's Connect! 🤝
 
 • Twitter: https://bit.ly/3C5GV6C
 
