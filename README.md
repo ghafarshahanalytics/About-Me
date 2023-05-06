@@ -15,17 +15,17 @@ Welcome! My name is Ghafar Shah. I am an experienced data analyst at Comcast wit
 
 • Speaker, 2022 Tableau Conference | Bring the WOW factor with Tableau Public Portfolios
 
-• 2x Tableau Public Ambassador
+• 2x Tableau Public Ambassador | 2021 - Present
 
-• 4x Tableau 'Viz of the Day' (VOTD)
+• 4x Tableau 'Viz of the Day'
 
 • "Biggest Growth" Tableau Conference Vizzie Award (2020)
 
-• Tableau Public Featured Author (2020)
+• Tableau Public Featured Author | 2020
 
-• Certified Tableau Desktop Associate (2020)
+• Certified Tableau Desktop Associate | 2020
 
-• Certified Tableau Desktop Specialist (2019)
+• Certified Tableau Desktop Specialist | 2019
 
 # DATA VIZ PORTFOLIO 📊
 
