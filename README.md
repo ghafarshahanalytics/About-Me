@@ -7,7 +7,7 @@ Welcome! My name is Ghafar Shah. I am an experienced data analyst at Comcast wit
 
 # Education 🏫
 
-• Masters in Business Intelligence & Analytics at Saint Joseph's University | 2021 - Present
+• Saint Joseph's University, Master of Science in Business Intelligence & Analytics | 2021 - Present
 
 • Drexel University, Bachelor of Science in Management Information Systems | Graduated September 2018
 
