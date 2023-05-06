@@ -1,4 +1,5 @@
  # Welcome to my GitHub portfolio! :wave:
+![data viz background](https://user-images.githubusercontent.com/69779897/236647219-a3b1d619-5f91-481d-b1d7-83890adf27ba.jpeg)
 
 ### ABOUT ME
 
